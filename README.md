@@ -3,10 +3,10 @@ Repository ini berisi rangkaian praktikum Big Data yang mencakup penyimpanan ter
 
 <br> 
 
-| Variable           |             Isi            |
-| -------------------|----------------------------|
-| **Nama**           |     Fadil Aditya Adzima    |
-| **NIM**            |          312310617         |
+| Variable           |             Isi             |
+| -------------------|-----------------------------|
+| **Nama**           |     Raul Putra Widodo       |
+| **NIM**            |          312310610          |
 | **Mata Kuliah**    |           Big Data          |
 | **Dosen Pengampu** | Agung Nugroho S.Kom., M.Kom.|
 
